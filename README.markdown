@@ -3,6 +3,8 @@ CCLabelFX
 
 CCLabelTTF subclass for Cocos2d with blurred shadow support.
 
+![](http://img51.imageshack.us/img51/7784/img0845.png)
+
 
 Usage
 -----------------------
