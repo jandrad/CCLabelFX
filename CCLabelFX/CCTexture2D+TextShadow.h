@@ -3,8 +3,7 @@
 //  LabelsTest
 //
 //  Created by Jose Andrade on 2/17/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
-//
+//  see LICENSE file for license terms
 
 #import "CCTexture2D.h"
 
